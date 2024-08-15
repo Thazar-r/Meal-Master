@@ -294,6 +294,7 @@ img {
   margin-top: 10px;
 }
 
+/*for post card style */
 .post-card {
   width: calc(33.333% - 10px);
   background-color: #fafafa;
