@@ -11,7 +11,7 @@ function Login() {
   };
 
   return (
-    <form onSubmit={handleLogin}>
+    <form onSubmit={handleLogin}> 
       <h2>Login</h2>
       <label>
         Email:
